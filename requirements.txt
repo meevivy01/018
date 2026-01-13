@@ -1,0 +1,12 @@
+pandas
+undetected-chromedriver
+selenium
+python-dotenv
+thefuzz
+rich
+fake-useragent
+python-dateutil
+PyYAML
+openpyxl
+gspread
+oauth2client
